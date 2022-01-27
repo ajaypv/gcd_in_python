@@ -1,6 +1,5 @@
 #  decleaing a  funcation gcde
-import gc
-from tkinter import N
+
 
 
 def gcde():
